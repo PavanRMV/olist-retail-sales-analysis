@@ -38,7 +38,20 @@ olist_project/
 - *Orders delivered late average a review score of A vs. B for on-time orders — a Z-point drop.*
 - *State X leads in both order volume and revenue, while State Y shows high revenue per order despite fewer customers.*
 
-## Dashboard
+## Exploratory Charts
+Generated in Python during initial exploration (`notebooks/eda.py`):
+
+**Monthly Revenue Trend**
+![Monthly Revenue Trend](notebooks/monthly_revenue_trend.png)
+
+**Top 10 Categories by Revenue**
+![Top Categories by Revenue](notebooks/top_categories_revenue.png)
+
+## Interactive Dashboard
+*(Not yet built — this is the next step. Once published, replace this section with:)*
+- A screenshot of the dashboard
+- A link to the live, published version on Tableau Public or Power BI
+
 [Add screenshot + link to published Tableau Public / Power BI dashboard here]
 
 ## What I'd Explore Next
